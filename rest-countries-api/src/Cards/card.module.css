@@ -1,0 +1,53 @@
+.map_img{
+    width:100%;
+    height: 160px;
+   border-radius: 5px;
+}
+.img_container{
+   width: 100%; 
+   border-radius: 5px;
+}
+.Card{
+    width: 260px;
+    max-width: 100%;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+    background-color:  hsl(209, 23%, 22%);
+    color: white;
+    box-sizing: border-box; 
+    cursor: pointer;
+    transition: 0.2s;
+}
+.Card:hover{
+    transform: scale(1.05);
+    transition: 0.2s;
+}
+.countryyes_info{
+    padding-left: 25px;
+    padding-bottom: 30px;
+}
+
+.infos{margin: 5px;
+    font-size: 14px;
+   color: hsl(0, 0%, 80%);
+ 
+}
+.infos_title{
+    font-weight: 600;
+    color: white;
+    letter-spacing: 1px;
+}
+.name_country{
+    color: white;
+    font-size: 18px;
+    font-weight:600 ;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+a {
+    text-decoration: none;
+  }
+  .link {
+    text-decoration: none;
+  }
+  

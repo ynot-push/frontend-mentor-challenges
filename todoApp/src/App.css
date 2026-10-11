@@ -1,0 +1,12 @@
+p{
+    color: hsl(234, 11%, 52%);
+    font-family: 'Josefin Sans',sans-serif;
+    font-size: 12px;
+    text-align: center;
+}
+.containnner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
